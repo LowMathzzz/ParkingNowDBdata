@@ -10,9 +10,9 @@ de esta forma:
 
 ![image](https://github.com/LowMathzzz/ParkingNowDBdata/assets/104606795/6413c4f2-bd2e-4167-a1d8-4903cf3b0c53)
 
-
-Una vez dentro ejecutaras los siguientes comandos uno a la vez y en este mismo orden: 
+ [!IMPORTANT]Una vez dentro ejecutaras los siguientes comandos uno a la vez y en este mismo orden: 
 --
+```
 mongosh
 
 use PARKINGNOW  
@@ -22,7 +22,7 @@ load("createcollections.js")
 load("ValidacionPARKINGNOW.js")
 
 load("InsertPARKINGNOW.js.")
-
+```
 
 En caso desee verificar que todos los scripts funcionaron
 --
@@ -31,13 +31,18 @@ La primera forma : Ingresar a mongodbcompass mediante localhost , e ingresar a P
 La segunda forma :
 
 -Para ver si las colecciones se crearon ejecuta el siguiente comando :   
+```
 show collections
+```
 
 -Para ver las validaciones ingresadas y sus tipos , se usa este comando : 
+```
  db.getCollectionInfos()
+```
 
  -Y para verificar los datos de cada tabla lo que deberias hacer es un find individualmente, aqui brindo un ejemplo(en el ejemplo el nombre de la coleccion que deseas ver  va sin comillas): 
+``` 
 db."nombredelacollecionquedeseasver".find()
-
+```
 
 
