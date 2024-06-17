@@ -8,12 +8,14 @@ Aqui se encuentran los 3 archivos necesarios para la creacion , validacion e ins
 
 Para poder ejecutar todos los comandos de manera satisfactoria deberas hacer lo siguiente: 
 --
+> [!IMPORTANT]
+>Si no se realiza este paso el mongosh no econtrara los archivos que desea cargar
+> 
 Dirijete a la carpeta principal donde se encuentran los documentos brindados en este repositorio (createcollections.js / InsertPARKINGNOW.js / ValidacionPARKINGNOW.js)
 
 abre el cmd desde la carpeta en la que te encuentras
 de esta forma:
-> [!IMPORTANT]
->Si no se realiza este paso el mongosh no econtrara los archivos que desea cargar
+
 
 
 ![image](https://github.com/LowMathzzz/ParkingNowDBdata/assets/104606795/6413c4f2-bd2e-4167-a1d8-4903cf3b0c53)
