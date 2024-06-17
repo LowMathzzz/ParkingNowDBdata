@@ -1,8 +1,11 @@
 # ParkingNowDBdata
 Aqui se encuentran los 3 archivos necesarios para la creacion , validacion e insercion de datos de nestro proyecto. :disguised_face: :smiling_imp:
 
-
-
++ Thomas Jefferson
++ Thomas Jefferson
++ Thomas Jefferson
++ Thomas Jefferson
++ Thomas Jefferson
 
 Para poder ejecutar todos los comandos de manera satisfactoria deberas hacer lo siguiente: 
 --
