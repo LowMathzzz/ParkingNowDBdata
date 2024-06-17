@@ -23,3 +23,21 @@ load("ValidacionPARKINGNOW.js")
 
 load("InsertPARKINGNOW.js.")
 
+
+En caso desee verificar que todos los scripts funcionaron
+--
+La primera forma : Ingresar a mongodbcompass mediante localhost , e ingresar a PARKINGNOW que deberia figurar con todos sus datos.
+
+La segunda forma :
+
+-Para ver si las colecciones se crearon ejecuta el siguiente comando :   
+show collections
+
+-Para ver las validaciones ingresadas y sus tipos , se usa este comando : 
+ db.getCollectionInfos()
+
+ -Y para verificar los datos de cada tabla lo que deberias hacer es un find individualmente, aqui brindo un ejemplo(en el ejemplo el nombre de la coleccion que deseas ver  va sin comillas): 
+db."nombredelacollecionquedeseasver".find()
+
+
+
