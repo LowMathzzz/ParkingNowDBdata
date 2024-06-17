@@ -1,5 +1,5 @@
 # ParkingNowDBdata
-Aqui se encuentran los 3 archivos necesarios para la creacion , validacion e insercion de datos de nestro proyecto. :disguised_face: :smiling_imp:
+Aqui se encuentran los archivos necesarios para la creacion , validacion e insercion de datos de nestro proyecto. :disguised_face: :smiling_imp:
 
 >[!TIP]
 > Sigue los pasos correctamente y todo funcionara al 100%
