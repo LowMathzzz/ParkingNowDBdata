@@ -13,6 +13,8 @@ de esta forma:
 
 Una vez dentro ejecutaras los siguientes comandos uno a la vez y en este mismo orden: 
 --
+mongosh
+
 use PARKINGNOW  
 
 load("createcollections.js")
