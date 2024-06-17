@@ -7,11 +7,16 @@ Dirijete a la carpeta principal donde se encuentran los documentos brindados en 
 
 abre el cmd desde la carpeta en la que te encuentras
 de esta forma:
+> [!IMPORTANT]
+>Si no se realiza este paso el mongosh no econtrara los archivos que desea cargar
+
 
 ![image](https://github.com/LowMathzzz/ParkingNowDBdata/assets/104606795/6413c4f2-bd2e-4167-a1d8-4903cf3b0c53)
 
+Una vez dentro ejecutaras los siguientes comandos:
+--
 >[!IMPORTANT]
->Una vez dentro ejecutaras los siguientes comandos uno a la vez y en este mismo orden: 
+>Uno a la vez y en ese mismo orden: 
 
 ```
 mongosh
