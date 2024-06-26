@@ -34,7 +34,7 @@ load("createcollections.js")
 
 load("ValidacionPARKINGNOW.js")
 
-load("InsertPARKINGNOW.js.")
+load("InsertPARKINGNOW.js")
 ```
 
 En caso desee verificar que todos los scripts funcionaron
